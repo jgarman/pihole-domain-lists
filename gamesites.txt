@@ -35,3 +35,7 @@
 0.0.0.0 jaws.io
 0.0.0.0 surviv.io
 0.0.0.0 zombsroyale.io
+0.0.0.0 sammycheez.com
+0.0.0.0 classwork.cc
+0.0.0.0 schoolquiz.org
+0.0.0.0 cheezgam.es

@@ -1,0 +1,37 @@
+# Game sites to be blocked in PiHole
+#
+# Author: github.com/jgarman
+
+0.0.0.0 www.y8.com
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 motox3m.co
+0.0.0.0 www.crazygames.com
+0.0.0.0 gameforge.com
+0.0.0.0 www.coolmathgames.com
+0.0.0.0 watchdocumentaries.com
+0.0.0.0 www.mathnook.com
+0.0.0.0 www.friv.com
+0.0.0.0 kizi.com
+0.0.0.0 www.kizi.com
+0.0.0.0 www.1001games.com
+
+0.0.0.0 slither.io
+0.0.0.0 snake.io
+0.0.0.0 hole-io.com
+0.0.0.0 hole-io.online
+0.0.0.0 now.gg
+0.0.0.0 iogames.onl
+0.0.0.0 kevin.games
+0.0.0.0 iogames.space
+0.0.0.0 www.gamepix.com
+0.0.0.0 www.unspeakable.com
+0.0.0.0 cookieclickercity.com
+0.0.0.0 lagged.com
+
+0.0.0.0 agar.io
+0.0.0.0 diep.io
+0.0.0.0 eatme.io
+0.0.0.0 jaws.io
+0.0.0.0 surviv.io
+0.0.0.0 zombsroyale.io
